@@ -1,3 +1,0 @@
-/home/danilo/Scrivania/iiw_client/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
-/home/danilo/Scrivania/iiw_client/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
-/home/danilo/Scrivania/iiw_client/cmake-build-debug-coverage/CMakeFiles/iiw_client.dir
