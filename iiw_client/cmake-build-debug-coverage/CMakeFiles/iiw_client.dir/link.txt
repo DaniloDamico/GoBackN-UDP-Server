@@ -1,0 +1,1 @@
+/usr/bin/cc --coverage -g   CMakeFiles/iiw_client.dir/main.c.o  -o iiw_client 
